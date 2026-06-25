@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ne Retiens Pas Tes Larmes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
+| **Get License** | [Music Rights & Licensing for Ne Retiens Pas Tes Larmes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ne retiens pas tes larmes, baby, laisse couler le frisson
+> Dans cette course de nuit, on perd toute la raison
+> Tes yeux brillent dans le noir, tu m'attires comme un aimant
+> Let's get lost in the groove, c'est nous deux maintenant
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
