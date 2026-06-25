@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ne Retiens Pas Tes Larmes
+
+This log tracks the cryptographic history and versioning for the song **Ne Retiens Pas Tes Larmes** (ne-retiens-pas-tes-larmes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T11:53:05.514070 | `v1` | `56e99d0e8f63793312cab90731505689ae8b0d467aa64bd4df597945a2a2e7c2` | `a34a656c88e50d370856aeb64f8267e729dbda38dcc47946479daeeaa0c21a55` | `2026-06-25_ne-retiens-pas-tes-larmes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

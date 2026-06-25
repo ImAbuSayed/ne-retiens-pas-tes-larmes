@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ne Retiens Pas Tes Larmes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
+| **Get License** | [Request Licensing for Ne Retiens Pas Tes Larmes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-retiens-pas-tes-larmes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `56e99d0e8f63793312cab90731505689ae8b0d467aa64bd4df597945a2a2e7c2` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
